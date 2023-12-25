@@ -4,13 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mfatihb97&label=Profile%20views&color=0e75b6&style=flat" alt="mfatihb97" /> </p>
 
-- 🌱 I’m currently learning **Java Spring Boot**
-
-- 💬 Ask me about **Java**
+- 🌱 I’m currently learning **HTML**
 
 - 📫 How to reach me **mfatihbatur@gmail.com**
-
-- ⚡ Fact **Table-tennis competitor**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
