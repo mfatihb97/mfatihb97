@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fatih</h1>
-<h3 align="center">A passionate full stack developer candidate from Turkey</h3>
+<h3 align="center">Passionate full stack developer candidate from Turkey</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mfatihb97&label=Profile%20views&color=0e75b6&style=flat" alt="mfatihb97" /> </p>
