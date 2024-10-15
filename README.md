@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Fatih</h1>
-<h3 align="center">Hello, I'm Fatih, residing in Turkey, passionate about honing my skills in web application development. My goal is to become proficient enough to undertake full-stack projects, having honed my expertise in both backend and frontend technologies.</h3>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mfatihbatur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mfatihbatur" height="30" width="40" />
